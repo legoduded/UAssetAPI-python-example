@@ -1,6 +1,6 @@
 # UAssetAPI in Python
 
-Here is an example showing how to call the [UAssetAPI](https://github.com/pythonnet/pythonnet) functions in python using [PythonNet](https://github.com/pythonnet/pythonnet)
+Here is an example showing how to call the [UAssetAPI](https://github.com/atenfyr/UAssetApi) functions in python using [PythonNet](https://github.com/pythonnet/pythonnet)
 
 
 ## Compiling UAssetAPI.dll
